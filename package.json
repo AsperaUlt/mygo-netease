@@ -1,0 +1,13 @@
+{
+  "name": "mygo-music-netease",
+  "version": "1.0.14",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules --test tests/plugin.test.js"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}
